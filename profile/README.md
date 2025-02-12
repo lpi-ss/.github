@@ -1,5 +1,6 @@
 # Let's Party: ServerSide Project
--# LPSS Project
+## LPSS Project
+
 This organization contains all scripts made for Let's Party Infinite (by FoxBin), that can be related to the Roblox's ServerSide industry.
 These scripts ARE **NOT SERVERSIDE, SS**, these scripts ARE **FE**, meaning they exploit RemoteFunctions and RemoteEvents to replicate the stuff happening on your screen to others.
 
