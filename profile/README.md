@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This project is discontinued! Scripts may break after an update, and they will not be fixed.
+
 # Let's Party: ServerSide Project
 ## LPSS Project
 
@@ -15,4 +18,4 @@ These scripts ARE **NOT SERVERSIDE, SS**, these scripts ARE **FE**, meaning they
 | ------------- | ------------------ |
 | January 2025  | __Prim API__ has been created, this is a cruical part, as every FE script afterwards will include it as a dependency. |
 | February 2025 | [*Star Glitcher*](https://github.com/lpi-ss) is being worked on (Officially QuickStar)     |
-| March 2025    | FE Neko, Portal Gun, SaveInstance?    |
+| March 2025    | Project was discontinued. What was planned: FE Neko, Portal Gun, SaveInstance?    |
